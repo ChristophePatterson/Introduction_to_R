@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Introduction to R
+Christophe Patterson
+
+An Introduction to using the statistical programming languages of R. Originally written for the BES summer school 2021.
+
+
 
 You can use the [editor on GitHub](https://github.com/ChristophePatterson/Introduction_to_R/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
